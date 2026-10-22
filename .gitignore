@@ -1,0 +1,15 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+*.db-*
+*.log
+.env
+.env.*
+!.env.example
+.models/
+/example-report.json
+/example-autonomous-task.json
